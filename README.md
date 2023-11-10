@@ -1,5 +1,4 @@
 Speed-Test es una utilidad que permite diagnosticar problemas de red, monitorear el ancho de banda y escanear dispositivos en una red local. Esta herramienta se desarrolló en Python para brindar información sobre la conectividad y los dispositivos dentro de una red.
-Características
 
 ## Características
 
