@@ -15,6 +15,6 @@ Speed-Test es una utilidad que permite diagnosticar problemas de red, monitorear
 ## Uso
 
 - Clona este repositorio en tu sistema.
-- Ejecuta el script principal con el comando python3 `Speed-Test.py`.
+- Ejecuta el script principal con el comando `sudo python3 Speed-Test.py`.
 
 Algunas operaciones pueden requerir permisos de administrador `sudo` y es importante ajustar las direcciones IP y adaptar las interfaces de red en el código según sea necesario.
