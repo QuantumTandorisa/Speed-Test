@@ -12,7 +12,7 @@
 #
 # Speed-Test is a utility that allows you to diagnose 
 # network problems, monitor bandwidth and scan devices
-#  on a local network. This tool was developed in 
+# on a local network. This tool was developed in 
 # Python to provide information about connectivity 
 # and devices within a network.
 #
